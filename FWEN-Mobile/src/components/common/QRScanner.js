@@ -1,1 +1,0 @@
-// TODO: QRScanner component

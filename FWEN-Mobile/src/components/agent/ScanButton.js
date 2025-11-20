@@ -1,1 +1,0 @@
-// TODO: ScanButton component
