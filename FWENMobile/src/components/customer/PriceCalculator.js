@@ -1,1 +1,0 @@
-// TODO: PriceCalculator component

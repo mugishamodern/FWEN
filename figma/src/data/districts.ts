@@ -1,0 +1,37 @@
+export const UGANDAN_DISTRICTS = [
+  'Abim', 'Adjumani', 'Agago', 'Alebtong', 'Amolatar', 'Amudat', 'Amuria', 'Amuru',
+  'Apac', 'Arua', 'Budaka', 'Bududa', 'Bugiri', 'Bugweri', 'Buhweju', 'Buikwe',
+  'Bukedea', 'Bukomansimbi', 'Bukwo', 'Bulambuli', 'Buliisa', 'Bundibugyo', 'Bunyangabu', 'Bushenyi',
+  'Busia', 'Butaleja', 'Butambala', 'Butebo', 'Buvuma', 'Buyende', 'Dokolo', 'Gomba',
+  'Gulu', 'Hoima', 'Ibanda', 'Iganga', 'Isingiro', 'Jinja', 'Kaabong', 'Kabale',
+  'Kabarole', 'Kaberamaido', 'Kagadi', 'Kakumiro', 'Kalangala', 'Kaliro', 'Kalungu', 'Kampala',
+  'Kamuli', 'Kamwenge', 'Kanungu', 'Kapchorwa', 'Kasese', 'Katakwi', 'Kayunga', 'Kibaale',
+  'Kiboga', 'Kibuku', 'Kiruhura', 'Kiryandongo', 'Kisoro', 'Kitgum', 'Koboko', 'Kole',
+  'Kotido', 'Kumi', 'Kwania', 'Kween', 'Kyankwanzi', 'Kyegegwa', 'Kyenjojo', 'Kyotera',
+  'Lamwo', 'Lira', 'Luuka', 'Luwero', 'Lwengo', 'Lyantonde', 'Manafwa', 'Maracha',
+  'Masaka', 'Masindi', 'Mayuge', 'Mbale', 'Mbarara', 'Mitooma', 'Mityana', 'Moroto',
+  'Moyo', 'Mpigi', 'Mubende', 'Mukono', 'Nakapiripirit', 'Nakaseke', 'Nakasongola', 'Namayingo',
+  'Namisindwa', 'Namutumba', 'Napak', 'Nebbi', 'Ngora', 'Ntoroko', 'Ntungamo', 'Nwoya',
+  'Obongi', 'Omoro', 'Otuke', 'Oyam', 'Pader', 'Pakwach', 'Pallisa', 'Rakai',
+  'Rubanda', 'Rubirizi', 'Rukiga', 'Rukungiri', 'Sembabule', 'Serere', 'Sheema', 'Sironko',
+  'Soroti', 'Tororo', 'Wakiso', 'Yumbe', 'Zombo'
+];
+
+export const BUS_ROUTES = [
+  { from: 'Kampala', to: 'Masaka', operator: 'Gateway Bus', duration: '2-3 hours' },
+  { from: 'Kampala', to: 'Mbarara', operator: 'Link Bus', duration: '4-5 hours' },
+  { from: 'Kampala', to: 'Gulu', operator: 'Gateway Bus', duration: '5-6 hours' },
+  { from: 'Kampala', to: 'Mbale', operator: 'Easy Bus', duration: '4-5 hours' },
+  { from: 'Kampala', to: 'Jinja', operator: 'Link Bus', duration: '1.5-2 hours' },
+  { from: 'Kampala', to: 'Fort Portal', operator: 'Link Bus', duration: '5-6 hours' },
+  { from: 'Kampala', to: 'Kabale', operator: 'Gateway Bus', duration: '6-7 hours' },
+  { from: 'Kampala', to: 'Arua', operator: 'Link Bus', duration: '7-8 hours' },
+  { from: 'Kampala', to: 'Soroti', operator: 'Easy Bus', duration: '5-6 hours' },
+  { from: 'Kampala', to: 'Hoima', operator: 'Link Bus', duration: '3-4 hours' },
+  { from: 'Jinja', to: 'Mbale', operator: 'Easy Bus', duration: '2-3 hours' },
+  { from: 'Jinja', to: 'Tororo', operator: 'Easy Bus', duration: '2 hours' },
+  { from: 'Mbarara', to: 'Kabale', operator: 'Gateway Bus', duration: '2-3 hours' },
+  { from: 'Mbarara', to: 'Kasese', operator: 'Link Bus', duration: '3-4 hours' },
+  { from: 'Gulu', to: 'Lira', operator: 'Gateway Bus', duration: '2 hours' },
+  { from: 'Masaka', to: 'Mbarara', operator: 'Link Bus', duration: '2-3 hours' },
+];
